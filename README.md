@@ -1,2 +1,5 @@
-# The-piazza-welcome-book.
-Luxury digital guest welcome book for The Piazza on Church Street, Cape Town CBD. Includes apartment information, guest guidelines, amenities, check-in instructions, local attractions, restaurants, and essential contacts for a comfortable stay.
+# The Piazza on Church – Digital Guide
+Upload steps are in the chat. Contents: index.html, img/places/ (optional photos).
+Edit text in the `L` object in index.html (en, de, fr, af). Lines starting "! " are
+"host to provide" notes: replace with real info. Places and links: the `PL` object.
+Never publish building access codes in this public page.
